@@ -4,7 +4,7 @@ An event location software built with [Laravel](https://laravel.com/) and mobile
 
 # Project Description
 - This project is a events searching application around a certain geaographic location. It mimics applications such as Kijiji in regards to its functionality. It has two types of app users namely Creators and User.
-- Creators have the ability to cretae and upload new events along wit the event location. They also have the ability to discover events of other creators.
+- Creators have the ability to create and upload new events along wit the event location. They also have the ability to discover events of other creators.
 - Users can only view events close to them and do not have access to the event creating screen.
 - Each app user is given the ability to choose if they want to be a creator or user at the login page.
 
