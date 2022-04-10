@@ -49,3 +49,11 @@ The backend is built with laravel to create APIs.
 | /event/{id}    | get    | -                                                                         | get one event. `id` is the id of an event to fetch    |
 | /event/{id}    | delete | -                                                                         | delete one event. `id` is the id of an event to fetch |
 | /event/range   | post   | `{lat:double,long:double}`                                                | get all events within a range of coords               |
+
+### Bugs List
+- Error on showing toasts on failed Http requests.
+
+### Troubleshooting Tips
+- Mainly visiting official websites of react native, Laravel and Expo.
+- Stack Overflow.
+
