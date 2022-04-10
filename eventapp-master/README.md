@@ -2,6 +2,8 @@
 
 An event location software built with [Laravel](https://laravel.com/) and mobile app built with [React Native](https://reactnative.dev/).
 
+# Project Description
+-
 ## Installation
 
 You need to have Laravel, composer, node and npm/Yarn installed properly.
@@ -56,4 +58,15 @@ The backend is built with laravel to create APIs.
 ### Troubleshooting Tips
 - Mainly visiting official websites of react native, Laravel and Expo.
 - Stack Overflow.
+
+### Contact
+- Name - Fikayo Oluwakeye
+- Project Link - https://github.com/fikay/FinalProject
+
+### Acknowledgements
+- Reactnative.dev
+- Stack Overflow
+- Expo
+- Laravel
+
 
