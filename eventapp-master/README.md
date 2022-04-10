@@ -3,13 +3,22 @@
 An event location software built with [Laravel](https://laravel.com/) and mobile app built with [React Native](https://reactnative.dev/).
 
 # Project Description
--
+- This project is a events searching application around a certain geaographic location. It mimics applications such as Kijiji in regards to its functionality. It has two types of app users namely Creators and User.
+- Creators have the ability to cretae and upload new events along wit the event location. They also have the ability to discover events of other creators.
+- Users can only view events close to them and do not have access to the event creating screen.
+- Each app user is given the ability to choose if they want to be a creator or user at the login page.
+
+## Prerequisite
+- npm
+
+
 ## Installation
 
 You need to have Laravel, composer, node and npm/Yarn installed properly.
 You need a PHP version of 8.0.2
 
 - Clone this repo
+- Install npm packages
 - Install the react native node_modules by running `yarn install-frontend` in your terminal
 - Install the laravel vendor by running `yarn install-backend` in your terminal
 
