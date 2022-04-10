@@ -5,6 +5,7 @@ An event location software built with [Laravel](https://laravel.com/) and mobile
 ## Installation
 
 You need to have Laravel, composer, node and npm/Yarn installed properly.
+You need a PHP version of 8.0.2
 
 - Clone this repo
 - Install the react native node_modules by running `yarn install-frontend` in your terminal
