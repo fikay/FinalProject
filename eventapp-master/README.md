@@ -10,6 +10,12 @@ An event location software built with [Laravel](https://laravel.com/) and mobile
 
 ## Prerequisite
 - npm
+- Yarn
+- Xampp
+- Laravel
+- Composer
+- PHP
+- Expo
 
 
 ## Installation
@@ -21,6 +27,17 @@ You need a PHP version of 8.0.2
 - Install npm packages
 - Install the react native node_modules by running `yarn install-frontend` in your terminal
 - Install the laravel vendor by running `yarn install-backend` in your terminal
+- Run Apache server and MySQL.
+- For IOS
+- Run start-frontend
+- Run start-backend
+- For android
+- run cd backend
+- run cd frontend
+- Then for both devices:
+- php artisan serve --host YOUR_IP_ADDRESS --port 80
+- Head over to the expo app on your device and the application should open from there.
+
 
 ## Frontend Documentation
 
