@@ -35,6 +35,7 @@ You need a PHP version of 8.0.2
 - run cd backend
 - run cd frontend
 - Then for both devices:
+- Run in the backend directory.
 - php artisan serve --host YOUR_IP_ADDRESS --port 80
 - Head over to the expo app on your device and the application should open from there.
 
